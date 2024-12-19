@@ -1,0 +1,1 @@
+first project by patrick collin's cyfrin updraft course making a simple storage contract it has used concepts of solidity to add person and thier fav number in temp memory, it can also store and retrieve any number feeded.
